@@ -1,5 +1,5 @@
 ---
-title: Chapter 3: Publish and Improve
+title: "Chapter 3: Publish and Improve"
 slug: chapter-3-publish-and-improve
 tags:
   - publishing

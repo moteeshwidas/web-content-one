@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: Edit for Clarity
+title: "Chapter 2: Edit for Clarity"
 slug: chapter-2-edit-for-clarity
 tags:
   - writing

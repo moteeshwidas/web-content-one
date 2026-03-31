@@ -1,5 +1,5 @@
 ---
-title: Chapter 1: Start with Structure
+title: "Chapter 1: Start with Structure"
 slug: chapter-1-start-with-structure
 tags:
   - writing
