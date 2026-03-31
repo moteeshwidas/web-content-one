@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "slug": "welcome-to-the-library",
+      "title": "Welcome to the Library",
+      "path": "articles/welcome-to-the-library.md",
+      "description": "How this markdown-powered site works and how to publish content.",
+      "date": "2026-03-31",
+      "tags": ["intro", "github", "markdown"],
+      "category": "guides"
+    },
+    {
+      "slug": "writing-great-technical-articles",
+      "title": "Writing Great Technical Articles",
+      "path": "articles/writing-great-technical-articles.md",
+      "description": "A practical checklist for structure, examples, and readability.",
+      "date": "2026-03-30",
+      "tags": ["writing", "productivity", "docs"],
+      "category": "writing"
+    }
+  ],
+  "books": [
+    {
+      "slug": "modern-markdown-publishing",
+      "title": "Modern Markdown Publishing",
+      "description": "A short book on planning, writing, and publishing markdown-first content.",
+      "chapters": [
+        {
+          "slug": "chapter-1-start-with-structure",
+          "title": "Chapter 1: Start with Structure",
+          "path": "books/modern-markdown-publishing/chapters/chapter-1-start-with-structure.md"
+        },
+        {
+          "slug": "chapter-2-edit-for-clarity",
+          "title": "Chapter 2: Edit for Clarity",
+          "path": "books/modern-markdown-publishing/chapters/chapter-2-edit-for-clarity.md"
+        },
+        {
+          "slug": "chapter-3-publish-and-improve",
+          "title": "Chapter 3: Publish and Improve",
+          "path": "books/modern-markdown-publishing/chapters/chapter-3-publish-and-improve.md"
+        }
+      ]
+    }
+  ]
+}
